@@ -7,6 +7,6 @@
 [submodule "argos3-examples"]
 	path = argos3-examples
 	url = https://github.com/ilpincy/argos3-examples.git
-[submodule "inf3995-06"]
-	path = inf3995-06
-	url = https://github.com/tran-simon/inf3995-06.git
+[submodule "inf3995-100"]
+	path = inf3995-100
+	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/inf3995-100.git
