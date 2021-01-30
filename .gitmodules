@@ -10,3 +10,6 @@
 [submodule "inf3995-100"]
 	path = inf3995-100
 	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/inf3995-100.git
+[submodule "firmware"]
+	path = firmware
+	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/inf3995-firmware.git
