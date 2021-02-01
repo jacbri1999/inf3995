@@ -7,9 +7,12 @@
 [submodule "argos3-examples"]
 	path = argos3-examples
 	url = https://github.com/ilpincy/argos3-examples.git
-[submodule "inf3995-100"]
-	path = inf3995-100
-	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/inf3995-100.git
 [submodule "firmware"]
 	path = firmware
 	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/inf3995-firmware.git
+[submodule "backend"]
+	path = backend
+	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/frontend.git
