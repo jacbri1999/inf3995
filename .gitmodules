@@ -16,3 +16,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/frontend.git
+[submodule "toolbelt"]
+	path = toolbelt
+	url = https://github.com/bitcraze/toolbelt.git
