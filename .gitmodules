@@ -25,3 +25,9 @@
 [submodule "BittyBuzz"]
 	path = BittyBuzz
 	url = https://github.com/MISTLab/BittyBuzz.git
+[submodule "Buzz"]
+	path = Buzz
+	url = https://github.com/MISTLab/Buzz.git
+[submodule "argos3-kilobot"]
+	path = argos3-kilobot
+	url = https://github.com/ilpincy/argos3-kilobot.git
