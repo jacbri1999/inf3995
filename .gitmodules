@@ -19,3 +19,6 @@
 [submodule "toolbelt"]
 	path = toolbelt
 	url = https://github.com/bitcraze/toolbelt.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://gitlab.com/polytechnique-montr-al/inf3995/20211/equipe-100/crazyflie-firmware.git
