@@ -31,3 +31,9 @@
 [submodule "argos3-kilobot"]
 	path = argos3-kilobot
 	url = https://github.com/ilpincy/argos3-kilobot.git
+[submodule "crazyradio-firmware"]
+	path = crazyradio-firmware
+	url = https://github.com/bitcraze/crazyradio-firmware.git
+[submodule "crazyflie-clients-python"]
+	path = crazyflie-clients-python
+	url = https://github.com/bitcraze/crazyflie-clients-python.git
